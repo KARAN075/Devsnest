@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(244, 239, 234,9);
+    color : #7d141d;
+    font-family:"Comic sans MS";
+    font-size : "4";
+    font-weight:bold;
+    text-shadow: 2px 2px 5px #7d141d ;
+}
+
+.center{
+    padding:"15";
+    margin-left: auto;
+    margin-right: auto;
+}
+
